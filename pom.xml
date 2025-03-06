@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>jf.estudos</groupId>
-	<artifactId>desafio-itau-unibanco-2020</artifactId>
+	<artifactId>desafio-itau-unibanco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>desafio-itau-unibanco-2020</name>
+	<name>desafio-itau-unibanco</name>
 	<description>API de transacoes e estatisticas dos ultimos 60 secs</description>
 	<url/>
 	<licenses>
